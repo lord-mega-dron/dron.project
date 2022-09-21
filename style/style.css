@@ -126,6 +126,12 @@ body{
     margin: 58px 0;
 }
 
+.footer_button:hover{
+    background: #5019c5;
+    transition: 2s;
+    cursor: pointer;
+}
+
 .footer_link{
     font-size: 16px;
     line-height: 21px;
